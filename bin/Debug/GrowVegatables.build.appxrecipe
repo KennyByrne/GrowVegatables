@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ASUS</Machine>
+    <WindowsUser>Kenny</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>aa11d0f4-d071-4967-8a3d-1f99bd196ed9</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Asus-PC\Documents\Visual Studio 2015\Projects\GrowVegatables\GrowVegatables\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Asus-PC\Documents\Visual Studio 2015\Projects\GrowVegatables\GrowVegatables\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Asus-PC\Documents\Visual Studio 2015\Projects\GrowVegatables\GrowVegatables\bin\Debug\GrowVegatables.exe">
+      <PackagePath>GrowVegatables.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asus-PC\Documents\Visual Studio 2015\Projects\GrowVegatables\GrowVegatables\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asus-PC\Documents\Visual Studio 2015\Projects\GrowVegatables\GrowVegatables\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asus-PC\Documents\Visual Studio 2015\Projects\GrowVegatables\GrowVegatables\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asus-PC\Documents\Visual Studio 2015\Projects\GrowVegatables\GrowVegatables\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asus-PC\Documents\Visual Studio 2015\Projects\GrowVegatables\GrowVegatables\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asus-PC\Documents\Visual Studio 2015\Projects\GrowVegatables\GrowVegatables\Assets\veg3.png">
+      <PackagePath>Assets\veg3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asus-PC\Documents\Visual Studio 2015\Projects\GrowVegatables\GrowVegatables\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asus-PC\Documents\Visual Studio 2015\Projects\GrowVegatables\GrowVegatables\Assets\Veg.jpg">
+      <PackagePath>Assets\Veg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asus-PC\Documents\Visual Studio 2015\Projects\GrowVegatables\GrowVegatables\bin\Debug\GrowVegatables.xr.xml">
+      <PackagePath>GrowVegatables.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asus-PC\Documents\Visual Studio 2015\Projects\GrowVegatables\GrowVegatables\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asus-PC\Documents\Visual Studio 2015\Projects\GrowVegatables\GrowVegatables\bin\Debug\Assets\ListPage.xbf">
+      <PackagePath>Assets\ListPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asus-PC\Documents\Visual Studio 2015\Projects\GrowVegatables\GrowVegatables\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Asus-PC\Documents\Visual Studio 2015\Projects\GrowVegatables\GrowVegatables\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
